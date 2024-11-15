@@ -1,7 +1,3 @@
-Here's the updated README with the link to your blog article:
-
----
-
 # Tailwind CSS Beginner Examples
 
 Welcome to the **Tailwind CSS Beginner Examples** repository! This collection of code examples is designed to help you get started with Tailwind CSS, explore its utility-first approach, and create responsive, scalable web designs with ease.
