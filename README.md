@@ -4,7 +4,7 @@ Welcome to the **Tailwind CSS Beginner Examples** repository! This collection of
 
 ## About
 
-This repository contains examples from our [Tailwind CSS tutorial](https://jaystechbites.com/posts/2024/tailwind-css-game-changer/), showcasing how to use utility classes for responsive design, typography, padding, margin, and flexbox layouts. Whether you're a beginner just getting started or an experienced developer looking to see how Tailwind CSS can simplify your workflow, you'll find practical code snippets and demonstrations here.
+This repository contains examples from [Jay's Tech Bites - Tailwind CSS tutorial](https://jaystechbites.com/posts/2024/tailwind-css-game-changer/), showcasing how to use utility classes for responsive design, typography, padding, margin, and flexbox layouts. Whether you're a beginner just getting started or an experienced developer looking to see how Tailwind CSS can simplify your workflow, you'll find practical code snippets and demonstrations here.
 
 ## Table of Contents
 
